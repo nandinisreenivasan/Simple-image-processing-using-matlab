@@ -1,9 +1,9 @@
 # Simple-image-processing-using-matlab
 This repository is a simple image processing project done using matlab online version.
 
-#How to use this project
+# How to use this project
 1) Download the code
-2) Extract teh folder 
+2) Extract the folder 
 3) Create an account in Matlab
 4) Open <a href="https://matlab.mathworks.com/"> Matlab Online editor</a>
 5) Select Home -> New -> App
